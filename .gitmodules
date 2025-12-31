@@ -1,0 +1,4 @@
+[submodule "PurrNetExperimental/Assets/PurrNetAddOns"]
+	path = PurrNetExperimental/Assets/PurrNetAddOns
+	url = https://github.com/insthync/PurrNetAddOns
+	branch = main
